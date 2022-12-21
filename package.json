@@ -1,0 +1,12 @@
+{
+  "name": "owasp",
+  "version": "1.0.0",
+  "description": "Password Strength test under OWASP Guidelines",
+  "main": "psw-strength-tester.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Utkarsh_Kumra",
+  "license": "ISC"
+}
